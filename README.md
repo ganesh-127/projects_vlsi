@@ -3,7 +3,7 @@ BIST enabled SRAM,ECG (R-peak detection)
 # BIST-Enabled SRAM with Assertion-Based Verification
 
 <p align="center">
-  <img src="docs/block_diagram.png" alt="Block Diagram" width="750"/>
+  <img src="rtl/Screenshot 2026-06-09 075511.png" alt="Block Diagram" width="750"/>
 </p>
 
 <p align="center">
