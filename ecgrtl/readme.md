@@ -1,7 +1,7 @@
 # ECG Signal Processor with Arrhythmia Detection on FPGA
 
 <p align="center">
-  <img src="docs/block_diagram.png" alt="Block Diagram" width="750"/>
+  <img src="ecgrtl/Screenshot 2026-06-09 085301.png" alt="Block Diagram" width="750"/>
 </p>
 
 <p align="center">
